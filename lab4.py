@@ -1,3 +1,4 @@
+#Substitution ciphers and Transposition Cipher.
 import math
 
 # Normalize text (only alphabets, uppercase)
